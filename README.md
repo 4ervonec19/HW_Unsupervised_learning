@@ -4,5 +4,5 @@
 
 ### Unfortunately, GitHub and Collab doesnt's show the plotly scatter plots correctly.<br>
 That's why the picture with the best result is:<br>
-Gaussian Mixture for 3 tsn-e components analysis
+Gaussian Mixture for 4 tsn-e components analysis
 ![3D scatter plot](best_result_plot.png)
